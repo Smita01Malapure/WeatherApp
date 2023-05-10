@@ -8,6 +8,6 @@
 The API provider: http://www.OpenWeatherMap.org
 
 ## Live demo
-
+ https://smita01malapure.github.io/WeatherApp/
 
 
