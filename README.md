@@ -8,6 +8,6 @@
 The API provider: http://www.OpenWeatherMap.org
 
 ## Live demo
-file:///C:/Users/Hp/Downloads/Weather%20App%20(1)/index.html
+
 
 
